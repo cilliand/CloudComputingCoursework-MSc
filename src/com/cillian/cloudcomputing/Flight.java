@@ -39,6 +39,10 @@ public class Flight {
 		return from;
 	}
 	
+	public String getPassengerID(){
+		return passengerID;
+	}
+	
 	public String getFlightID(){
 		return flightID;
 	}
