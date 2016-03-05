@@ -1,0 +1,14 @@
+Compilation
+To compile the progam please follow standard javac compilation method. 
+Program should compile from src\com\cillian\cloudcomputing\CloudComputing
+
+Program Execution
+The compiled program can be executed by running the following command from within the bin folder, as is or if recompiled here.
+
+java com.cillian.cloudcomputing.CloudCompting <path to input file one> <path to input file two> <path to output file>
+
+Example:
+java com.cillian.cloudcomputing.CloudComputing data\AComp_Passenger_Data.csv data\Top30_airports_LatLong.csv output.txt
+
+
+
